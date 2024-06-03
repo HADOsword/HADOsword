@@ -1,5 +1,5 @@
-<--YO , my name is "HADOsword" /n
-<--Currently a college student (computer science) /n
-<--objective : Software engineer / Game Developper /n
-<--Learned langage : C / mySQL / HTML,CSS / JavaScript / python /n
-<--Want to learn : Rust / C++ / React / JAVA / C# ... /n
+<--YO , my name is "HADOsword" 
+<--Currently a college student (computer science) 
+<--objective : Software engineer / Game Developper 
+<--Learned langage : C / mySQL / HTML,CSS / JavaScript / python 
+<--Want to learn : Rust / C++ / React / JAVA / C# ... 
