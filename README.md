@@ -1,7 +1,7 @@
 # 👋 YO, I'm Aalae "HADOsword" LOUKILI  
 
 💻 **Computer Science Student**  
-🎯 **Aspiring Software Engineer / Game Developer**  
+🎯 **Aspiring Artificial Intelligence Engineer / Game Developer**  
 
 ## 🚀 About Me  
 - 🔹 Passionate about coding, problem-solving, and building cool projects.  
@@ -14,8 +14,7 @@
 - 🚀 Rust, C++, React, C#  
 
 ## 📫 Connect with Me  
-- 🌐 [GitHub Profile](https://github.com/YOUR_USERNAME)  
+- 🌐 [GitHub Profile](https://github.com/HADOsword)  
 - 📧 [Email](mailto:alaeloukili2005@gmail.com)
 
 ---
-_"Code, Create, Conquer!"_
