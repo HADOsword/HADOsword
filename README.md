@@ -9,12 +9,3 @@
 
 ## 🛠️ Technologies I Know  
 - ✅ **Languages:** C, MySQL, HTML, CSS, JavaScript, Python, Java , Express.js, MongoDB, PHP, Next.js  
-
-## 📚 Currently Learning & Exploring  
-- 🚀 Rust, C++, React, C#  
-
-## 📫 Connect with Me  
-- 🌐 [GitHub Profile](https://github.com/HADOsword)  
-- 📧 [Email](mailto:alaeloukili2005@gmail.com)
-
----
